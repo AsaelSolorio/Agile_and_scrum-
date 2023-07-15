@@ -1,6 +1,6 @@
 ---
 name: User Story
-about: this template is for creating user stories
+about: Describe this issue template's purpose here.
 title: ''
 labels: ''
 assignees: ''
@@ -20,4 +20,3 @@ assignees: ''
  Given [some context]
  When [certain action is taken]
  Then [the outcome of action is observed]
- ```
